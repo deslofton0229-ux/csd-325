@@ -1,3 +1,1 @@
-# csd-325
-CSD 325 assignments
-mkdir module-1
+git clone https://github.com/deslofton0229-ux/csd-325.git
